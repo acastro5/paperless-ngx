@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: paperless-ngx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-14 08:54-0700\n"
-"PO-Revision-Date: 2025-04-14 19:48\n"
+"PO-Revision-Date: 2025-04-18 12:12\n"
 "Last-Translator: \n"
 "Language-Team: Bulgarian\n"
 "Language: bg_BG\n"
@@ -778,7 +778,7 @@ msgstr "инстанции на персонализирани полета"
 
 #: documents/models.py:929
 msgid "Consumption Started"
-msgstr "Започната обработка"
+msgstr "Стартирана обработка"
 
 #: documents/models.py:930
 msgid "Document Added"
@@ -1970,7 +1970,7 @@ msgstr "Вградените прикачени файлове включват 
 
 #: paperless_mail/models.py:235
 msgid "consumption scope"
-msgstr "обхват на консумацията"
+msgstr "движение обработка"
 
 #: paperless_mail/models.py:241
 msgid "pdf layout"
